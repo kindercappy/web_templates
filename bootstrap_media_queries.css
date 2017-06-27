@@ -1,0 +1,20 @@
+/* col- */
+@media only screen (max-width: 576px) {
+	
+}
+/* col-sm */
+@media only screen (min-width: 577px) and (max-width: 767px){
+
+}
+/* col-md */
+@media only screen (min-width: 768px) and (max-width: 991px){
+
+}
+/* col-lg */
+@media only screen (min-width: 992px) and (max-width: 1199px){
+
+}
+/* col-xl */
+@media  only screen (min-width: 1200px){
+
+}
